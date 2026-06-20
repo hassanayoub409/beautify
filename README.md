@@ -28,7 +28,20 @@ The goal of the project is to make graph drawing algorithms intuitive and visual
 
 ## Screenshots
 
-> _Add screenshots here_
+**Landing Screen**
+![Landing Screen](https://github.com/hassanayoub409/beautify/blob/a70c3b3e4acc4635f834937350abc32eeafbd4e6/landing_screen.png)
+
+
+**Graph Selection Screen**
+![Selection Screen](https://github.com/hassanayoub409/beautify/blob/a70c3b3e4acc4635f834937350abc32eeafbd4e6/selection_screen.png)
+
+
+**Dodecahedral Graph (Before Animation)**
+![Dodecahedral Graph](https://github.com/hassanayoub409/beautify/blob/a70c3b3e4acc4635f834937350abc32eeafbd4e6/dodecahedral.png)
+
+
+**Dodecahedral Graph (After Fruchterman-Reingold Algorithm)**
+![Fruchterman-Reingold Algorithm](https://github.com/hassanayoub409/beautify/blob/a70c3b3e4acc4635f834937350abc32eeafbd4e6/fruchterman_reingold.png)
 
 ---
 
