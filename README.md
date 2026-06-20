@@ -41,7 +41,7 @@ The goal of the project is to make graph drawing algorithms intuitive and visual
 
 
 **Dodecahedral Graph (After Fruchterman-Reingold Algorithm)**
-![Fruchterman-Reingold Algorithm](https://github.com/hassanayoub409/beautify/blob/a70c3b3e4acc4635f834937350abc32eeafbd4e6/fruchterman_reingold.png)
+![Fruchterman-Reingold Algorithm](https://github.com/hassanayoub409/beautify/blob/a70c3b3e4acc4635f834937350abc32eeafbd4e6/frutcherman_reingold.png)
 
 ---
 
