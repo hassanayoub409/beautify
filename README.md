@@ -131,7 +131,7 @@ Beautify/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Beautify.git
+git clone https://github.com/hassanayoub409/beautify.git
 cd Beautify
 ```
 
