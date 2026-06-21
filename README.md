@@ -132,7 +132,7 @@ Beautify/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/hassanayoub409/beautify.git
-cd Beautify
+cd beautify
 ```
 
 ### 2. (Recommended) Create a virtual environment
